@@ -1,0 +1,8 @@
+Skyline Courier — a little flight game. Fly a red courier plane through a
+sunlit valley in a chase view: thread glowing sky rings, mind the fuel gauge,
+watch the stall warning, and set her down gently on the island strips.
+Three missions (Ring Run, Island Hop, Storm Courier), a real flight model
+with throttle, bank, pitch, lift and stall, a compass, speed and altitude
+tapes, an attitude indicator, and synthesized engine and wind sound.
+Keyboard (arrows/WASD, Shift/E throttle up, Ctrl/Q down) or mouse steering.
+Built with plain Canvas 2D and ES modules, no libraries, no network.
